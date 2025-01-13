@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 Full-Stack Developer | Crafting Robust & Scalable Solutions
+
+Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in creating dynamic web applications and scalable systems. Here's what I bring to the table:
+
+💻 Expertise: Proficient in Java, JavaScript, and frameworks  React, Node.js,MonodogoDB
+🌐 Full-Stack Projects: From intuitive front-end designs to efficient back-end systems, I enjoy building complete solutions.
+⚙️ Continuous Learning: Always exploring the latest in tech to stay ahead in the field.
+🚀 Open Source Advocate: Contributor to projects that make a difference.
